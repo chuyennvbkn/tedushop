@@ -1,0 +1,14 @@
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+D:\Tools 2021\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tools 2021\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojAssemblyReference.cache
+D:\Tools 2021\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
+D:\Tools 2021\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
+D:\Tools 2021\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+D:\Tools 2021\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb

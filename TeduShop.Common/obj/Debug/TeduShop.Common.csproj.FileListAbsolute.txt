@@ -1,0 +1,5 @@
+D:\Tools 2021\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\Tools 2021\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\Tools 2021\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\Tools 2021\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\Tools 2021\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
